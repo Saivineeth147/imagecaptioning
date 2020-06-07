@@ -1,4 +1,3 @@
-pickle
 Click==7.0
 gunicorn==19.9.0
 MarkupSafe==1.1.1
